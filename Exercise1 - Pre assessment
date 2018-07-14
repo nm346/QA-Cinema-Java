@@ -1,0 +1,17 @@
+Nathan Mayifuila – Pre Assessment pack exercise one
+
+Encapsulation
+Encapsulation is what we achieve when we use modifiers such as public and private, private is used to only make the method or variable accessible in that particular class and nowhere else whereas public means that method or variable is accessible from anywhere and everywhere. In other words, encapsulation is used to hide or show the state of objects using the private, public and protected modifiers. 
+
+Abstraction
+Abstraction is used to hide certain things so that the essential features of an object can be the only features that are shown to us, this means it only deals with the outside of an object. What I will say is that encapsulation is a part of abstraction.
+
+Polymorphism
+Polymorphism, in short the word polymorphism simply means “many forms” the word poly means many and morph means forms or change. In java polymorphism is the ability to present the same interface for different types of date so data types like chars and integers can be described as polymorphic because you can change them. 
+
+When the term polymorphism comes up in OOP we are usually dealing with overloading and overriding methods. Overloading means two or more methods with the exact same name but different parameters (one can even have no parameters), overriding is used in inheritance so for example if a super class has a method that needs implementing, the subclass can ‘override’ this method and give it a new implementation.  
+
+Inheritance
+
+
+Inheritance mentioned above simply means a process where a subclass can acquire properties from it’s superclass, we use the extends keyword to inherit from one class to another.
